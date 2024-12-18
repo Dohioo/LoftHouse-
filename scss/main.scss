@@ -1,0 +1,20 @@
+// Base
+@import "./base/reset"; //Сброс стилей
+@import "./base/vars"; //Переменные
+@import "./base/mixins"; //Миксины
+@import "./base/base"; //Основные стили
+
+//Block
+@import "./blocks/header"; //Header
+@import "./blocks/nav"; //Nav
+@import "./blocks/info"; //Info
+@import "./blocks/benefits"; //benefits
+@import "./blocks/appartments"; //appartments
+@import "./blocks/card"; //card
+@import "./blocks/cta"; //cta
+@import "./blocks/form"; //form
+@import "./blocks/video"; //video
+@import "./blocks/section-map"; //map
+@import "./blocks/feedback"; //feedback
+@import "./blocks/footer"; //footer
+@import "./blocks/nav-icon"; //icon media
